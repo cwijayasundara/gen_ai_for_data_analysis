@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain_experimental
+openai
+python-dotenv
+streamlit
+pandas
+kaleido
+plotly
+pydantic==1.10.12
+clickhouse-sqlalchemy
+matplotlib
+seaborn
